@@ -1,0 +1,11 @@
+imgkit==1.0.2
+pdfkit==0.6.1
+requests==2.24.0
+urllib3==1.25.10
+wkhtmltopdf==0.2
+yadisk==1.2.14
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
+selenium==3.141.0
+webdriver-manager==3.2.2

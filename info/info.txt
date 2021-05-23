@@ -1,0 +1,5 @@
+host=
+login=
+password=
+yandex_api_token=
+qiwi_num=
